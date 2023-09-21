@@ -155,7 +155,7 @@ p {
 **********************************************************/
 header {
     width: 100%;
-    background-image: linear-gradient(rgb(0 0 0 / 34%), transparent), url(../Assets/Images/hero-3.jpg);
+    background-image: linear-gradient(rgb(0 0 0 / 34%), transparent), url(../assets/images/hero-3.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -545,7 +545,7 @@ nav .social-media-icons a {
 
 .three-banner-1,
 .three-banner-3 {
-    background-image: linear-gradient(rgba(0, 0, 255, 0.539), rgba(0, 0, 0, 0.63)), url("../Assets/Images/gallery-1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 255, 0.539), rgba(0, 0, 0, 0.63)), url("../assets/images/gallery-1.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -580,7 +580,7 @@ nav .social-media-icons a {
 }
 
 .three-banner-3 {
-    background-image: linear-gradient(to right, rgb(0, 0, 0), rgba(0, 26, 255, 0.395)), url("../Assets/Images/girlMusic-1.jpg");
+    background-image: linear-gradient(to right, rgb(0, 0, 0), rgba(0, 26, 255, 0.395)), url("../assets/images/girl-music-1.jpg");
 }
 
 .three-banner-3 h1 {
@@ -629,7 +629,7 @@ nav .social-media-icons a {
 **********************************************************/
 .gallery-box {
     height: 30rem;
-    background-image: url("../Assets/Images/gallery-1.jpg");
+    background-image: url("../assets/images/gallery-1.jpg");
     background-size: cover;
     background-position: center;
     cursor: pointer;
@@ -653,31 +653,31 @@ nav .social-media-icons a {
 }
 
 .gallery-box:nth-child(2) {
-    background-image: url("../Assets/Images/gallery-2.jpg");
+    background-image: url("../assets/images/gallery-2.jpg");
 }
 
 .gallery-box:nth-child(3) {
-    background-image: url("../Assets/Images/gallery-3.jpg");
+    background-image: url("../assets/images/gallery-3.jpg");
 }
 
 .gallery-box:nth-child(4) {
-    background-image: url("../Assets/Images/gallery-4.jpg");
+    background-image: url("../assets/images/gallery-4.jpg");
 }
 
 .gallery-box:nth-child(5) {
-    background-image: url("../Assets/Images/gallery-2.jpg");
+    background-image: url("../assets/images/gallery-2.jpg");
 }
 
 .gallery-box:nth-child(6) {
-    background-image: url("../Assets/Images/gallery-4.jpg");
+    background-image: url("../assets/images/gallery-4.jpg");
 }
 
 .gallery-box:nth-child(7) {
-    background-image: url("../Assets/Images/gallery-3.jpg");
+    background-image: url("../assets/images/gallery-3.jpg");
 }
 
 .gallery-box:nth-child(8) {
-    background-image: url("../Assets/Images/gallery-1.jpg");
+    background-image: url("../assets/images/gallery-1.jpg");
 }
 
 /**********************************************************
