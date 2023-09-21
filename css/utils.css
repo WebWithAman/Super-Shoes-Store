@@ -1,0 +1,74 @@
+/***********************************************************
+    Utility Classes Start 
+************************************************************/
+
+.max-width-center {
+    max-width: 1300px;
+    margin-inline: auto;
+    width: 100%;
+}
+
+.d-grid {
+    display: grid;
+}
+
+.grid-4-columns {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.grid-2-columns {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-d-col {
+    flex-direction: column;
+}
+
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.align-start {
+    align-items: flex-start;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.primary-btn {
+    background-color: var(--primary-color);
+}
+
+@media (hover:hover) {
+    .primary-btn:hover {
+        background-color: var(--helping-color);
+    }
+}
+
+.section-shadow {
+    box-shadow: 3px 0 15px rgba(0, 0, 0, 0.247), -3px 0 15px rgba(0, 0, 0, 0.247);
+}
+
+.padding-inline {
+    padding-inline: 2%;
+}
+
+/***********************************************************
+    Utility Classes End
+************************************************************/
